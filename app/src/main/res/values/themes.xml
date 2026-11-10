@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.KiScreen" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
